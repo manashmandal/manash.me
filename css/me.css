@@ -2,11 +2,15 @@
 /*font-family: 'Glegoo', serif;*/
 /*font-family: 'Fauna One', serif;*/
 /*font-family: 'Contrail One', cursive;*/
-/*font-family: 'Metamorphous', cursive;*/
+/*font-family: 'Metamorphous', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+*/
 
 #navigation-item {
     padding-left: 8px;
     height: inherit;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 125%;
 }
 
 .navbar{
@@ -63,4 +67,18 @@
 .homepage-panels {
     min-height: 220px;
     max-height: 220px;
+}
+
+.alignleft {
+    float:left;
+    font-family: "Scope One", Serif;
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+.alignright {
+    float: right;
+    font-family: "Scope One", Serif;
+    font-size: 20px;
+    margin-right: 25px;
 }
