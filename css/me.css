@@ -6,6 +6,7 @@
 
 #navigation-item {
     padding-left: 8px;
+    height: inherit;
 }
 
 .navbar{
@@ -33,4 +34,18 @@
 
 .jumbotron {
     margin-top: 50px;
+}
+
+.visit-button{
+    font-weight: bold;
+}
+
+.fa-2x {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar-icon {
+    /*margin-top: -10px;*/
+    font-size: small;
 }
