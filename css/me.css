@@ -30,6 +30,10 @@
 
 #blocks{
     font-family: 'Fauna One', cursive;
+    font-size: 240%;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border-bottom: solid 1px #311B92;
 }
 
 .jumbotron {
@@ -48,4 +52,15 @@
 .navbar-icon {
     /*margin-top: -10px;*/
     font-size: small;
+}
+
+#blocks-paragraph {
+    font-family: "Glegoo", Serif;
+    font-weight:bold;
+    font-size: 140%;
+}
+
+.homepage-panels {
+    min-height: 220px;
+    max-height: 220px;
 }
