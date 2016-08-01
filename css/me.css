@@ -1,0 +1,28 @@
+/*font-family: 'Scope One', serif;*/
+/*font-family: 'Glegoo', serif;*/
+/*font-family: 'Fauna One', serif;*/
+/*font-family: 'Contrail One', cursive;*/
+/*font-family: 'Metamorphous', cursive;*/
+
+#navigation-item {
+    padding-left: 8px;
+}
+
+.navbar{
+    margin-bottom: 0px;
+}
+
+#name_manash{
+    font-family: 'Scope One', serif;
+
+}
+
+.tag-blogger, .tag-learner, .tag-maker {
+    font-family: 'Metamorphous', cursive;
+    font-size: large;
+    display: inline;
+    border: solid 2px;
+    margin: 3px;
+    padding: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
