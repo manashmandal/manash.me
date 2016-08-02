@@ -19,7 +19,6 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 
 #name_manash{
     font-family: 'Scope One', serif;
-
 }
 
 .tag-blogger, .tag-learner, .tag-maker {
@@ -40,9 +39,7 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
     border-bottom: solid 1px #311B92;
 }
 
-.jumbotron {
-    margin-top: 50px;
-}
+
 
 .visit-button{
     font-weight: bold;
@@ -85,4 +82,35 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 
 .active {
     border-bottom: 4px solid rebeccapurple;
+}
+
+.jumbotron{
+    background-image: url('http://www.wallpapereast.com/static/images/sky-blue-glow-29613-1920x1080.jpg');
+}
+
+#aboutme{
+    margin-top: 70px;
+    font-family: "Scope One", Serif;
+    font-weight: bold;
+}
+
+/*
+About Me page
+*/
+
+.heading {
+    font-family: "Scope One", Serif;
+    border-bottom: 0.5px black dashed;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.aboutme-page {
+    margin-top: 25px;
+}
+
+#aboutme-paragraph {
+    font-size: 20px;
+    font-family: "Fauna One", serif;
+    color: #000;
 }
