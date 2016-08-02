@@ -82,3 +82,7 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 20px;
     margin-right: 25px;
 }
+
+.active {
+    border-bottom: 4px solid rebeccapurple;
+}
