@@ -81,7 +81,7 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 .active {
-    border-bottom: 4px solid rebeccapurple;
+    /*border-bottom: 4px solid rebeccapurple;*/
 }
 
 .jumbotron{
@@ -113,4 +113,32 @@ About Me page
     font-size: 20px;
     font-family: "Fauna One", serif;
     color: #000;
+}
+
+.active-aboutme {
+    border-bottom: solid 4px #F44336;
+}
+
+.active-projects{
+    border-bottom: solid 4px #4CAF50;
+}
+
+.active-home{
+    border-bottom: solid 4px #3F51B5;
+}
+
+.active-skills {
+    border-bottom: solid 4px #009688;
+}
+
+.active-research{
+    border-bottom: solid 4px #607D8B;
+}
+
+.active-education{
+    border-bottom: solid 4px #795548;
+}
+
+.active-contact{
+    border-bottom: solid 4px #AEEA00;
 }
