@@ -6,6 +6,26 @@
 font-family: 'Yanone Kaffeesatz', sans-serif;
 */
 
+/*Footer placement*/
+* {
+    margin: 0;
+}
+
+html, body{
+    height: 92%;
+}
+
+.wrapit {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -25px;
+}
+
+.push, .site-footer{
+    height: 25px;
+}
+
 #navigation-item {
     padding-left: 8px;
     height: inherit;
@@ -82,6 +102,10 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 
 .active {
     /*border-bottom: 4px solid rebeccapurple;*/
+}
+
+body {
+    overflow-x: hidden;
 }
 
 .jumbotron{
