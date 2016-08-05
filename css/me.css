@@ -218,7 +218,7 @@ About Me page
     margin-top: 25px;
 }
 
-#big_title_underline {
+.big_title_underline {
     font-family: "Scope One", serif;
     border-bottom: 1px solid #607D8B;
 }
