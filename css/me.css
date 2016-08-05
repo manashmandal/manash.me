@@ -240,3 +240,18 @@ About Me page
     font-size: large;
     color: black;
 }
+
+.table td, th {
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+}
+
+.non_ordered_list > li {
+    list-style: none;
+    font-family: 'Roboto Slab', Serif;
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+}
+
