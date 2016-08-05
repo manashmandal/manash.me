@@ -41,6 +41,10 @@ html, body{
     font-family: 'Scope One', serif;
 }
 
+#big_title{
+    font-family: 'Scope One', serif;
+}
+
 #contact-form-titles{
     font-family: 'Scope One', serif;
     font-size: x-large;
@@ -149,7 +153,15 @@ About Me page
     border-bottom: solid 4px #F44336;
 }
 
+#_about:hover {
+    border-bottom: solid 4px #F44336;
+}
+
 .active-projects{
+    border-bottom: solid 4px #4CAF50;
+}
+
+#_projects:hover {
     border-bottom: solid 4px #4CAF50;
 }
 
@@ -157,7 +169,15 @@ About Me page
     border-bottom: solid 4px #3F51B5;
 }
 
+#_home:hover{
+    border-bottom: solid 4px #3F51B5;
+}
+
 .active-skills {
+    border-bottom: solid 4px #009688;
+}
+
+#_skills:hover{
     border-bottom: solid 4px #009688;
 }
 
@@ -165,7 +185,15 @@ About Me page
     border-bottom: solid 4px #607D8B;
 }
 
+#_research:hover{
+    border-bottom: solid 4px #607D8B;
+}
+
 .active-education{
+    border-bottom: solid 4px #795548;
+}
+
+#_education:hover{
     border-bottom: solid 4px #795548;
 }
 
@@ -173,11 +201,34 @@ About Me page
     border-bottom: solid 4px #AEEA00;
 }
 
+#_contact:hover{
+    border-bottom: solid 4px #AEEA00;
+}
 
 #contact-form{
     margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .btn-modified{
     background-color: #009688;
+}
+
+#research {
+    margin-top: 25px;
+}
+
+#big_title_underline {
+    font-family: "Scope One", serif;
+    border-bottom: 1px solid #607D8B;
+}
+
+#table_heading {
+    font-family: 'Scope One', serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+#research_table{
+    text-align: center;
 }

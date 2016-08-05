@@ -25,19 +25,19 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-left">
-                    <li {% if page.url == "/" %}class="active active-home"{% endif %}><a href="index.html"><i class="fa fa-home fa-lg"><span id="navigation-item">Home</span> </i> </a> </li>
-                    <li {% if page.url == "/aboutme" %}class="active active-aboutme"{% endif %}><a href="aboutme.html"><i class="fa fa-user fa-lg"><span id="navigation-item">About Me</span> </i> </a> </li>
-                    <li {% if page.url == "/projects" %}class="active active-projects"{% endif %}><a href="projects.html"><i class="fa fa-code fa-lg"><span id="navigation-item">Projects</span> </i> </a> </li>
-                    <li {% if page.url == "/skills" %}class="active active-skills"{% endif %}><a href="skills.html"><i class="fa fa-cog fa-lg"><span id="navigation-item">Skills</span> </i> </a> </li>
-                    <li {% if page.url == "/education" %}class="active active-education"{% endif %}><a href="education.html"><i class="fa fa-graduation-cap fa-lg"><span id="navigation-item">Education</span> </i> </a> </li>
-                    <li {% if page.url == "/research" %}class="active active-research"{% endif %}><a href="research.html"><i class="fa fa-university fa-lg"><span id="navigation-item">Research</span></i> </a> </li>
-                    <li {% if page.url == "/contact" %}class="active active-contact"{% endif %}><a href="contact.html"><i class="fa fa-paper-plane-o fa-lg"><span id="navigation-item">Contact</span> </i> </a> </li>
+                    <li id="_home" {% if page.url == "/" %}class="active active-home"{% endif %}><a href="index.html"><i class="fa fa-home fa-lg"><span id="navigation-item">Home</span> </i> </a> </li>
+                    <li id="_about"{% if page.url == "/aboutme" %}class="active active-aboutme"{% endif %}><a href="aboutme.html"><i class="fa fa-user fa-lg"><span id="navigation-item">About Me</span> </i> </a> </li>
+                    <li id="_projects"{% if page.url == "/projects" %}class="active active-projects"{% endif %}><a href="projects.html"><i class="fa fa-code fa-lg"><span id="navigation-item">Projects</span> </i> </a> </li>
+                    <li id="_skills"{% if page.url == "/skills" %}class="active active-skills"{% endif %}><a href="skills.html"><i class="fa fa-cog fa-lg"><span id="navigation-item">Skills</span> </i> </a> </li>
+                    <li id="_education"{% if page.url == "/education" %}class="active active-education"{% endif %}><a href="education.html"><i class="fa fa-graduation-cap fa-lg"><span id="navigation-item">Education</span> </i> </a> </li>
+                    <li id="_research"{% if page.url == "/research" %}class="active active-research"{% endif %}><a href="research.html"><i class="fa fa-university fa-lg"><span id="navigation-item">Research</span></i> </a> </li>
+                    <li id="_contact"{% if page.url == "/contact" %}class="active active-contact"{% endif %}><a href="contact.html"><i class="fa fa-paper-plane-o fa-lg"><span id="navigation-item">Contact</span> </i> </a> </li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="http://github.manash.me"><i class="fa fa-github fa-lg"></i> </a> </li>
-                    <li><a href="http://fb.manash.me"><i class="fa fa-facebook fa-lg"></i> </a> </li>
-                    <li><a href="http://gplus.manash.me"><i class="fa fa-google-plus"></i> </a> </li>
+                    <li><a href="http://github.manash.me" target="_blank"><i class="fa fa-github fa-lg"></i> </a> </li>
+                    <li><a href="http://fb.manash.me" target="_blank"><i class="fa fa-facebook fa-lg"></i> </a> </li>
+                    <li><a href="http://gplus.manash.me" target="_blank"><i class="fa fa-google-plus"></i> </a> </li>
                 </ul>
 
                 <!--<ul class="nav navbar-nav navbar-right">-->
