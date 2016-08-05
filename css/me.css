@@ -41,6 +41,12 @@ html, body{
     font-family: 'Scope One', serif;
 }
 
+#contact-form-titles{
+    font-family: 'Scope One', serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
 .tag-blogger, .tag-learner, .tag-maker {
     font-family: 'Metamorphous', cursive;
     font-size: large;
@@ -165,4 +171,9 @@ About Me page
 
 .active-contact{
     border-bottom: solid 4px #AEEA00;
+}
+
+
+#contact-form{
+    margin-top: 40px;
 }
