@@ -292,3 +292,7 @@ About Me page
     margin-top: 60px;
     margin-bottom: 30px;
 }
+
+.container-margin {
+    margin: 10px;
+}
