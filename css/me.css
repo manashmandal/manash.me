@@ -250,8 +250,8 @@ About Me page
 }
 
 .table td, th {
-    text-align: center;
-    font-size: 20px;
+    text-align: left;
+    font-size: 17px;
     color: #000;
 }
 
