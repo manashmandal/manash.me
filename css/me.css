@@ -243,6 +243,12 @@ About Me page
     color: black;
 }
 
+.para-graph {
+    font-family: 'Roboto Slab', Serif;
+    font-size: large;
+    color: black;
+}
+
 .table td, th {
     text-align: center;
     font-size: 20px;
@@ -301,4 +307,8 @@ About Me page
 
 .table-hover > li:hover {
     background-color: #c7e7c8;
+}
+
+.education-heading {
+    font-family: 'Roboto Slab', Serif;
 }
