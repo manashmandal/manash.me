@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335156ca-d85a-4ce0-9a8d-17157c4ff1c1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/me.css" afterPath="$PROJECT_DIR$/css/me.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/education.html" afterPath="$PROJECT_DIR$/education.html" />
     </list>
     <ignored path="test_site.iws" />
@@ -46,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="education.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="education.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/education.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+            <state relative-caret-position="771">
+              <caret line="121" column="23" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -122,7 +121,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="me.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="me.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/me.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="538">
@@ -177,8 +176,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/blogs.html" />
         <option value="$PROJECT_DIR$/research.html" />
-        <option value="$PROJECT_DIR$/education.html" />
         <option value="$PROJECT_DIR$/css/me.css" />
+        <option value="$PROJECT_DIR$/education.html" />
       </list>
     </option>
   </component>
@@ -341,12 +340,12 @@
       <workItem from="1470320929570" duration="461000" />
       <workItem from="1470383770130" duration="2332000" />
       <workItem from="1470399215769" duration="15683000" />
-      <workItem from="1470461450231" duration="8857000" />
+      <workItem from="1470461450231" duration="9540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44041000" />
+    <option name="totallyTimeSpent" value="44724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -736,18 +735,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/me.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
           <caret line="253" column="17" selection-start-line="253" selection-start-column="17" selection-end-line="253" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="121" column="23" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
           <folding />
         </state>
       </provider>
