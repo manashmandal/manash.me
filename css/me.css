@@ -298,3 +298,7 @@ About Me page
 .container-margin {
     margin: 10px;
 }
+
+.table-hover > li:hover {
+    background-color: #c7e7c8;
+}
